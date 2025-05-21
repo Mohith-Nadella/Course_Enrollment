@@ -11,3 +11,4 @@ A C++ based course enrollment simulation that mimics university-level course reg
 ## Technologies
 - C++
 - STL (`vector`, `map`)
+- Object-Oriented Programming
